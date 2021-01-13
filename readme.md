@@ -19,6 +19,10 @@ I finished the course when it just came out, so some notebooks may not be exactl
   * [svms_and_kernels.ipynb](https://github.com/pedrohortencio/Machine-Learning-Algorithms-in-the-Real-World/blob/main/Supervised%20Learning%20Tip%20to%20Tail/svms_and_kernels.ipynb) - Code, explanation and visualizations for SVMs models.
 
 #### 3 - [Data for Machine Learning](https://www.coursera.org/learn/data-machine-learning)
-
+  * [preparing_data.ipynb]() - Extensive code for data cleaning and preprocessing using Pandas. Includes various methodologies to deal with diferent types of Missing Values (at random, completely at random and not random) and comprehensible explanations.
 
 #### 4 - [Optimizing Machine Learning Performance](https://www.coursera.org/learn/optimize-machine-learning-model-performance)
+  Just like course 1, it doesn't have any file because it's more of a theoretical course.
+  
+#### Personal Opinion
+  If I have to put my opinion in simple terms, I would say that I was very surprised. It has light courses with a lot of theory that you don't easily find in other specializations and books. In some parts it sounds like someone very experienced is giving you life advises (and that's basicaly the truth, Amii build this course based on their own experience). There are a lot of really useful takeaways, such as the Machine Learning Process Lifecycle and the excelent and extensive example of how to prepare and deal with messy data. As today, months after I finished the courses, I'm still using MLPL and constantly opening and consulting the codes for examples, I don't have to think to much: I highly recommend the specialization.
